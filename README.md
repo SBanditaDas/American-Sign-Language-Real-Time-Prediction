@@ -157,9 +157,10 @@ drive.mount('/content/drive')
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
 **Sushree Bandita Das**  
-Machine Learning  
+ 
  📧 Email: sushreebanditadas01@gmail.com  
 🔗 [LinkedIn](http://www.linkedin.com/in/sushree-bandita-das-160651309)  
 🔗 [Portfolio](http://datascienceportfol.io/sushreebanditadas01)
 
 ---
+
